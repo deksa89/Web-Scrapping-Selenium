@@ -69,21 +69,6 @@ if __name__ == "__main__":
         airline.append(pr.text)
 
 
-    # print(len(destination))
-    # print((destination))
-    #
-    # print(len(price))
-    # print(price)
-    #
-    # print(len(departure_date))
-    # print(departure_date)
-    #
-    # print(len(date_of_arrival))
-    # print(date_of_arrival)
-
-    # print(len(airline))
-    # print(airline)
-
     letovi = pd.DataFrame({
         "Destination" : destination,
         "Prices" : price,
