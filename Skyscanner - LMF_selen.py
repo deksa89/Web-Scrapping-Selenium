@@ -5,9 +5,6 @@ import undetected_chromedriver.v2 as webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 
 # pip install undetected-chromedriver
-# mozda treba napraviti folder -> C:\chrome_temp
-# python=3.10.0
-
 
 destination = []
 price = []
